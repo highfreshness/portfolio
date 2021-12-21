@@ -1,7 +1,0 @@
-Django 파트의 pkl 파일은 용량 문제로 모두 삭제처리하였습니다.
-
-'3. apart_separate[stacking]' 를 통해 pkl이 생성되면 
-
-Django -> predict_price -> saved_models에 모두 넣어 구동하면 웹페이지가 정상 구동됩니다.
-
-혹시라도 급하게 필요하신 분이 계시다면 meteo0718@gmail.com으로 메일 주시면 확인하겠습니다.
