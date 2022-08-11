@@ -1,4 +1,4 @@
-# 🚘 중고차 가격 예측 모델링 프로젝트
+# 🚘 중고차 가격 예측  프로젝트 [[링크]](https://github.com/highfreshness/portfolio/tree/master/%EC%9C%A0%EB%9F%BD%20%EC%A4%91%EA%B3%A0%EC%B0%A8%20%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1)
 
 
 
