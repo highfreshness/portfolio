@@ -1,4 +1,4 @@
-# 🏠 **서울시 아파트 가격 예측** [[링크]](https://github.com/highfreshness/portfolio/tree/master/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1)
+# 🏠 **서울시 아파트 가격 예측** 
 
 ---
 
